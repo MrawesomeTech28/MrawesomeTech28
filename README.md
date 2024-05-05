@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrawesomeTech28
 - 👀 I’m interested in Computer Science, Rowing, Games
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: techgamingq1050@gmail.com
+- 📫 How to reach me: techgaming1050@gmail.com
 - ⚡ Fun fact: Born on the west coast, live on the east.
 
 <!---
